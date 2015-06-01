@@ -126,8 +126,8 @@ function suffixes(string,suffix,apostrof,apostrofMark){
     return result;
 }
 
-module.exports = function (str) {
+module.exports = function (string,suffix,apostrof,apostrofMark) {
   'use strict';
-  return suffixes(str);
+  return suffixes(string,suffix,apostrof,apostrofMark);
 };
 
