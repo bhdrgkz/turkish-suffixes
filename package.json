@@ -1,6 +1,6 @@
 {
   "name": "turkish-suffixes",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Turkish Suffixes",
   "main": "turkish-suffixes.js",
   "scripts": {
