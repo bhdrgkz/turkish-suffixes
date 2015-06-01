@@ -1,0 +1,29 @@
+{
+  "name": "turkish-suffixes",
+  "version": "1.0.0",
+  "description": "Turkish Suffixes",
+  "main": "turkish-suffixes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bhdrgkz/turkish-suffixes.git"
+  },
+  "keywords": [
+    "turkish",
+    "suffix",
+    "string",
+    "cases",
+    "turkish",
+    "suffixes",
+    "possessive",
+    "word"
+  ],
+  "author": "Bahadır Gököz <bahadir.gokoz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhdrgkz/turkish-suffixes/issues"
+  },
+  "homepage": "https://github.com/bhdrgkz/turkish-suffixes"
+}
