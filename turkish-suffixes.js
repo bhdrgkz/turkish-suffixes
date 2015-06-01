@@ -10,7 +10,7 @@ function suffixes(string,suffix,apostrof,apostrofMark){
     var matchesVowelLetters     = string.match(/[aeıioöuü]/g); 
     var lastVowelLetter         = matchesVowelLetters[matchesVowelLetters.length-1];
     var lastLetter              = string.charAt(string.length-1);
-
+    var stringSuffix            = "";
     if(apostrof === false){
         apostrofMark = "";
     }
