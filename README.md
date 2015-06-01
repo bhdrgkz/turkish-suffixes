@@ -1,6 +1,6 @@
 # turkish-suffixes
 İstanbul -> İstanbul'a -> İstanbul'dan -> İstanbulla -> İstanbul'un ->İstanbul'da -> İstanbul'u
-Mert -> Ankara'ya -> Ankara'dan -> Ankarayla -> Ankara'nın -> Ankara'da -> Ankara'yı
+Ankara -> Ankara'ya -> Ankara'dan -> Ankarayla -> Ankara'nın -> Ankara'da -> Ankara'yı
 Atatürk -> Atatürk'e -> Atatürk'ten -> Atatürkle -> Atatürk'ün -> Atatürk'te -> Atatürk'ü
 
 #install
