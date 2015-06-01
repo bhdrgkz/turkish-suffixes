@@ -13,7 +13,7 @@ npm install turkish-suffixes --save
 var ts = require('turkish-suffixes');
 ```
 
-#variables
+#variables & values
 ```text
 suffix -> "in", "e", "i", "de", "den", "ile"
 
