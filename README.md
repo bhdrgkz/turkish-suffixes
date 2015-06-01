@@ -13,12 +13,10 @@ npm install turkish-suffixes --save
 var ts = require('turkish-suffixes');
 ```
 
-#variables & values
+#variables and values
 ```text
 suffix -> "in", "e", "i", "de", "den", "ile"
-
 apostrof -> true, false (if use false apostrof don't show)
-
 apostrofMark -> "'","`"
 ```
 
