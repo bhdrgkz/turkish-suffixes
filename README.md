@@ -8,3 +8,11 @@ npm install turkish-suffixes --save
 
 #add
 ts = require('turkish-suffixes');
+
+#use
+ts(string, suffix, apostrof, apostrofMark);
+
+#variables
+suffix -> "in", "e", "i", "de", "den", "ile"
+apostrof-> true, false (if use false apostrof don't show)
+apostrofMark -> "'","`"
