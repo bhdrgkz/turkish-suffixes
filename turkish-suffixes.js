@@ -5,12 +5,14 @@ function in_array(obj, arr) {
     return false;
 }
         
-function suffixes(string,suffix,apostrof,apostrofMark){
+function suffixes(string, suffix, apostrof, apostrofMark) {
+    let result = "";
     var hardConsonantLetters    = ['ç','f','h','k','p','s','ş','t'];
     var matchesVowelLetters     = string.match(/[aeıioöuü]/g); 
     var lastVowelLetter         = matchesVowelLetters[matchesVowelLetters.length-1];
     var lastLetter              = string.charAt(string.length-1);
     var stringSuffix            = "";
+    
     if(apostrof === false){
         apostrofMark = "";
     }
