@@ -26,3 +26,6 @@ ts("İstanbul", "de", true, "'"); //İstanbul'da
 ts("büyük masa", "de", false, "'"); //büyük masada
 ts("Atatürk", "in", true, "`"); // Atatürk`ün
 ```
+
+##thanks
+https://github.com/hicay
