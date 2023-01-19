@@ -27,5 +27,5 @@ ts("büyük masa", "de", false, "'"); //büyük masada
 ts("Atatürk", "in", true, "`"); // Atatürk`ün
 ```
 
-##thanks
+## thanks
 https://github.com/hicay
