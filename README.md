@@ -10,7 +10,7 @@ npm install turkish-suffixes --save
 ## how to use
 ### node
 ```js
-var ts = require('turkish-suffixes');
+const ts = require('turkish-suffixes');
 ```
 
 #variables and values
